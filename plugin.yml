@@ -1,0 +1,17 @@
+{
+  "website": "http://marcely.de", 
+  "commands": {
+    "repair": {
+      "description": "Repair the tool you are holding.",
+      "usage": "/repair"
+    },
+    "fix": {
+     "description": "Repair the tool you are holding.",
+     "usage": "/fix"
+    }
+  },
+  "version": 1.3.6, 
+  "name": "Repair", 
+  "author": "Marcely1199", 
+  "main": "de.marcely.repair.main", 
+}
